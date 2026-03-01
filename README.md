@@ -1,6 +1,6 @@
 # Hi, I'm Poojitha 👋
+🎓 B.Tech in Electronics & Communication Engineering | Aspiring Data Analyst
 
-🎓 B.Tech Graduate | Aspiring Data Analyst  
 📊 Skilled in SQL, Power BI, Python, Excel  
 📍 Bangalore  
 
