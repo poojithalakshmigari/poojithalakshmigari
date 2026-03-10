@@ -1,5 +1,5 @@
 # Hi, I'm Poojitha 👋
-B.Tech in Electronics & Communication Engineering | Python | SQL | Data Analyst | Data Engineering | ETL Pipelines | REST APIs | Automation
+B.Tech in Electronics & Communication Engineering | Python | SQL | Data Analyst | Data Engineering | ETL Pipelines | REST APIs | Automation |Data processing 
 
 📊 Skilled in SQL, Power BI, Python, Excel  
 📍 Bangalore  
@@ -21,10 +21,14 @@ I am an aspiring Data Analyst with hands-on experience in SQL analysis, dashboar
 ---
 
 ## 🛠 Technical Skills
-- SQL (Joins, Group By, Subqueries, Aggregate Functions)
-- Power BI (DAX, Dashboard Design, Data Modeling)
-- Python (Pandas, NumPy, Matplotlib)
-- Excel (Pivot Tables, Data Analysis, Reporting)
+
+- Python (Pandas, NumPy)
+- SQL (Joins, Aggregations, Query Optimization)
+- Excel (Data Analysis, Pivot Tables)
+- Power BI (Dashboard Development, Data Visualization)
+- ETL Pipelines & Data Processing
+- Data Cleaning & Validation
+- Git & GitHub
 
 ---
 
