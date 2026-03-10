@@ -1,5 +1,5 @@
 # Hi, I'm Poojitha 👋
-🎓 B.Tech in Electronics & Communication Engineering | Aspiring Data Analyst
+🎓 B.Tech in Electronics & Communication Engineering | Python | SQL | Data Engineering | ETL Pipelines | Backend Development
 
 📊 Skilled in SQL, Power BI, Python, Excel  
 📍 Bangalore  
